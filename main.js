@@ -167,7 +167,7 @@ const translations = {
 
   function downloadResume() {
     const link = document.createElement('a');
-    link.href = 'CV_ATS_NATHALIA_CARVALHO.docx'; // Substitua pelo caminho correto do arquivo
+    link.href = 'CV_ATS_NATHALIA_CARVALHO .pdf'; // Substitua pelo caminho correto do arquivo
     link.download = 'Curriculo-Nathalia-Carvalho.pdf';
     link.click();
   }
